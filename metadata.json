@@ -1,0 +1,6 @@
+{
+  "name": "AMRUTH Connect",
+  "description": "Premium mobile splash screen for AMRUTH Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
